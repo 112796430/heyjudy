@@ -1,16 +1,16 @@
 #**********************************************************************
 # 03.26
-# 2018Äê3ÔÂ26ÈÕ 02:03:04
-# ×ªÔØĞèÒª×¢Ã÷°æÈ¨ºÍÀ´Ô´
-# È«²¿¹æÔòÀ´×ÔGFWList Ã»ÓĞ°×Ãûµ¥
+# 2018å¹´3æœˆ26æ—¥ 02:03:04
+# è½¬è½½éœ€è¦æ³¨æ˜ç‰ˆæƒå’Œæ¥æº
+# å…¨éƒ¨è§„åˆ™æ¥è‡ªGFWList æ²¡æœ‰ç™½åå•
 #
-# ¸üĞÂ¼ÇÂ¼ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/more/New.md
-# ÏÂÔØµØÖ· https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
+# æ›´æ–°è®°å½• https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/more/New.md
+# ä¸‹è½½åœ°å€ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
 #
 #**********************************************************************
 
 [bypass_all]
-### Ä¬ÈÏÖ±Á¬ ×Ô¼º¿ÉÒÔ×Ô¶¨Òå
+### é»˜è®¤ç›´è¿ è‡ªå·±å¯ä»¥è‡ªå®šä¹‰
 
 #**********************************************************************
 [proxy_list]
@@ -77,7 +77,7 @@
 114.199.145.219
 220.132.16.173
 
-# ¹úÍâÓòÃû¹Ø¼ü×Ö
+# å›½å¤–åŸŸåå…³é”®å­—
 (^|\.)\w*1e100\w*\.\w*$
 (^|\.)\w*appledaily\w*\.\w*$
 (^|\.)\w*blogspot\w*\.\w*$
@@ -425,6 +425,7 @@
 (^|\.)avcool\.com$
 (^|\.)avdb\.in$
 (^|\.)avdb\.tv$
+(^|\.)avgle\.com$
 (^|\.)avfantasy\.com$
 (^|\.)avidemux\.org$
 (^|\.)avmo\.pw$
@@ -5417,7 +5418,7 @@
 (^|\.)jtvnw\.net$
 (^|\.)akamaized\.net$
 
-#·ÉÁ÷Ö±²¥
+#é£æµç›´æ’­
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
